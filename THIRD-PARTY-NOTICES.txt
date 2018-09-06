@@ -1,0 +1,1 @@
+See https://github.com/aspnet/Blazor/blob/master/THIRD-PARTY-NOTICES.txt
